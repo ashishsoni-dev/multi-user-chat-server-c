@@ -1,9 +1,12 @@
 # Multi-User Chat Server in C (Winsock)
 
 ## About
-This is a simple multi-user chat server built using C and Winsock on Windows.  
-Multiple clients can connect to the server and chat with each other in real time.
+A simple multi-user chat server built in C using Winsock.  
+Supports multiple clients, private messaging, and real-time communication.
 
+---
+## 📂 Project Structure
+- chat_server.c → Main server file
 ---
 
 ## Features
